@@ -1,0 +1,6 @@
+streamlit
+gpt4all
+pymupdf
+pytesseract
+pdf2image
+pillow
